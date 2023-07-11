@@ -32,11 +32,15 @@
     </div>
     </div>
   </nav>
+  <h1 class="h1 text-center bg-secondary"> 
+  My Page
+</h1>
 <div class="container myContainer">
     <div class="row">
-    <img src="/media/image1.jpg" class="img-fluid" alt="">
+    <img src="/media/image1.jpg" class="img-fluid myImage" alt="">
     </div>
 </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <script src="/js/script.js"></script>
   </body>
